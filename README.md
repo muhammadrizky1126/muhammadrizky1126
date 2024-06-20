@@ -23,6 +23,9 @@ I'm a beginner who is still learning and I like learning to code
 <br />
 <br />
 
+### see my portfolio:
+
+https://muhammadrizky1126.github.io/WebPersonal/
 
 
 
